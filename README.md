@@ -1,7 +1,3 @@
-# Alende-alen-Ehikioya
-Cybersecurity Specialist focused on Penetration Testing, Cloud Security, and Secure Development.  Profile showcasing cybersecurity projects, labs, and technical writeups.
-
-
 # 👋 Hi, I'm Alende – Cybersecurity Specialist
 
 ### 🔐 Skills:
@@ -21,5 +17,5 @@ Cybersecurity Specialist focused on Penetration Testing, Cloud Security, and Sec
 - [Hack The Box Walkthroughs](https://#)
 
 ### 📫 Contact:
-- **Email:** [alende@example.com](mailto:alen.ehis@gmail.com)
+- **Email:** [alen.ehis@gmail.com](mailto:alen.ehis@gmail.com)
 - **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/alen-ehikioya)
