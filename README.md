@@ -61,6 +61,6 @@ I create clear and structured technical documentation, including:
 
 ### 📫 Contact:
 - **Email:** [alen.ehis@gmail.com](mailto:alen.ehis@gmail.com)
-- **LinkedIn:** [://linkedin.com/in/alen-ehikioya](https://://linkedin.com/in/alen-ehikioya)
+- **LinkedIn:** https://linkedin.com/in/alen-ehikioya 
 
 
