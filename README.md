@@ -18,4 +18,4 @@
 
 ### 📫 Contact:
 - **Email:** [alen.ehis@gmail.com](mailto:alen.ehis@gmail.com)
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/alen-ehikioya)
+- **LinkedIn:** [://linkedin.com/in/alen-ehikioya](https://://linkedin.com/in/alen-ehikioya)
