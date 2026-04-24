@@ -1,16 +1,59 @@
-# 👋 Hi, I'm Alende – Cybersecurity Specialist
+# 👋 Hi, I'm Alende Ehikioya
 
-### 🔐 Skills:
+🔐 Cybersecurity Specialist | Technical Writer | IT Infrastructure Engineer 
+---
+
+## 🚀 About Me
+I am a cybersecurity-focused IT professional with 8+ years of experience in infrastructure, cloud systems, and secure software development.
+
+I specialize in:
+- Penetration Testing
+- Cloud Security (Azure)
+- Secure API Development
+- Technical Documentation
+  
+---
+
+## 🔐 Skills:
 - <img src="https://skillicons.dev" height="20"> **Penetration Testing**
 - <img src="https://skillicons.dev" height="20"> **Cloud Security**
 - <img src="https://skillicons.dev" height="20"> **Secure Development**
+- <img src="https://skillicons.dev" height="20"> **Programming**
 - <img src="https://skillicons.dev" height="20"> **Technical Writer**
 
+**Tools:** 
+`Nmap` | `Metasploit` | `Wireshark` | `Burp Suite`
 
-### 📌 Projects:
-- [Penetration Testing Lab](https://github.com) - Description of your lab setup.
-- [Secure API System](https://github.com) - Details on how you secured the API.
-- [Azure Secure Architecture](https://github.com) - Documentation on cloud security hardening.
+---
+
+## 📂 Featured Projects:
+
+### 🛡️ Penetration Testing Lab
+Simulated real-world hacking environment using Kali Linux and Metasploit  
+👉 [View Project](https://github.com/alendeehikioya/Penetration-Testing-Lab)
+
+---
+
+### ☁️ Azure Secure Architecture
+Designed and deployed secure cloud infrastructure  
+👉 [View Project](https://github.com/alendeehikioya/azure-secure-architecture)
+
+---
+
+### 🔐 Secure API
+Built a secure Node.js API with authentication and protection mechanisms  
+👉 [View Project](https://github.com/alendeehikioya/secure-api-project)
+
+---
+
+### ✍️ Technical Writing
+I create clear and structured technical documentation, including:
+- Security reports
+- API documentation
+- Training manuals
+👉 [View Project](https://github.com/alendeehikioya/technical-writing)
+
+---
 
 ### 📖 Articles:
 - [My Writeups on Medium](https://#)
@@ -19,3 +62,5 @@
 ### 📫 Contact:
 - **Email:** [alen.ehis@gmail.com](mailto:alen.ehis@gmail.com)
 - **LinkedIn:** [://linkedin.com/in/alen-ehikioya](https://://linkedin.com/in/alen-ehikioya)
+
+
