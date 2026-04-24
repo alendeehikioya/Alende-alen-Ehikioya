@@ -40,7 +40,7 @@ Designed and deployed secure cloud infrastructure
 
 ---
 
-### 🔐 Secure API
+### 🔐 Secure API Project
 Built a secure Node.js API with authentication and protection mechanisms  
 👉 [View Project](https://github.com/alendeehikioya/secure-api-project)
 
